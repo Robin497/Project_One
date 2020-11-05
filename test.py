@@ -1,2 +1,0 @@
-print("Whats up")
-zj 
