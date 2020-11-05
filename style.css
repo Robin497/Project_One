@@ -1,0 +1,48 @@
+#navigationsleiste{
+  padding: 0;
+}
+
+#navigationsleiste li {
+  list-style-type: none;
+  display: inline;
+  margin:0;
+  padding:4px 0;
+  background-color: #F7FFC3;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+  }
+
+  #navigationsleiste a{
+    text-decoration: none;
+    color: black;
+    padding: 4px 20px;
+  }
+
+  #Bild img{
+    margin: 10px 10px 10px 40px;
+    height: 250px;
+  }
+
+#Tabelle {
+  height: 150px;
+  width: 1000px;
+}
+
+#Formular {
+  background-color: #eee;
+  padding: 20px;
+  border: solid 1px black;
+}
+
+#Formular label{
+  display: block;
+}
+
+#Formular input{
+  margin-bottom: 10px;
+}
+
+#Formular textarea{
+  margin-bottom: 10px;
+  resize: none;
+}
